@@ -1,3 +1,3 @@
 **Celsius-to-Fahrenheit Converter**
 
-My previous Celsius to Fahrenheit converter had some inefficiencies and readability problems. This is an improved version of C2F in C
+C2F converter with improved functionality and readability in C and C++
